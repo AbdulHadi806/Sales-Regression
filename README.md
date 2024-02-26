@@ -9,6 +9,29 @@ Model is created using Linear Regression Algorithm for predicting Sales. The mod
 - Pandas
 - Seaborn
 
+## Running the Model
+
+To run the model included in this repository, follow these simple steps:
+
+1. **Clone the Repository:**
+    ```bash
+    git clone <repository_url>
+    ```
+    Replace `<repository_url>` with the URL of your GitHub repository.
+
+2. **Set Up the Environment:**
+    - Ensure you have the necessary dependencies installed. You can typically find these listed in a `requirements.txt` file or within the documentation.
+    - Install any required libraries using your preferred package manager, such as pip or conda.
+
+3. **Launch Jupyter Notebook or Preferred IDE:**
+    - Navigate to the cloned repository directory.
+    - Open your Jupyter Notebook or preferred Integrated Development Environment (IDE) such as VSCode, PyCharm, or Spyder.
+
+4. **Run the Model:**
+    - Locate the main file or notebook containing the model code.
+    - Execute the code cells or run the script according to the provided instructions.
+
+
 ## About Me:
 
 I'm a young and passionate programmer with a love for continual growth and learning. Born on December 20, 2005, I'm deeply fascinated by the realms of machine learning and artificial intelligence, 
