@@ -29,7 +29,7 @@ To run the model included in this repository, follow these simple steps:
 
 4. **Run the Model:**
     - Locate the main file or notebook containing the model code.
-    - Execute the code cells or run the script according to the provided instructions.
+    - Execute the code cells or run the script.
 
 
 ## About Me:
